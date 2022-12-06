@@ -1,5 +1,6 @@
 #!/bin/sh
 'dskdjks'
+kdjksjkdsjkd
 
 USER=collider
 do_start(){
