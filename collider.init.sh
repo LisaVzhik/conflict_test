@@ -1,5 +1,5 @@
 #!/bin/sh
-
+'dskdjks'
 
 USER=collider
 do_start(){
